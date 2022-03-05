@@ -1,0 +1,22 @@
+{
+  "name": "paramvir_portfolio",
+  "version": "1.0.0",
+  "description": "Contains my portfolio website with all my projects.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgill20/Paramvir_Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgill20/Paramvir_Portfolio/issues"
+  },
+  "homepage": "https://github.com/pgill20/Paramvir_Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
